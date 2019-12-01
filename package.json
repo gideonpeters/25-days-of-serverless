@@ -1,10 +1,10 @@
 {
-  "name": "API",
-  "version": "1.0.0",
-  "description": "",
-  "scripts": {
-    "test": "echo \"No tests yet...\""
-  },
-  "dependencies": {},
-  "devDependencies": {}
+	"name": "Dreidel API",
+	"version": "1.0.0",
+	"description": "25 days of serverless Day 1",
+	"scripts": {
+		"test": "echo \"No tests yet...\""
+	},
+	"dependencies": {},
+	"devDependencies": {}
 }
